@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Circle",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-20T23:32:36.193626Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Can the Circle Be Unbroken",
+      "artist": "The Carter Family",
+      "has_synced": true,
+      "path": "select/01_Can_the_Circle_Be_Unbroken_The_Carter_Family.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Can the Circle Be Unbroken (78rpm Version)",
+      "artist": "The Carter Family",
+      "has_synced": false,
+      "path": "select/02_Can_the_Circle_Be_Unbroken_(78rpm_Version)_The_Carter_Family.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Can the Circle Be Unbroken (78rpm Version)",
+      "artist": "The Original Carter Family",
+      "has_synced": false,
+      "path": "select/03_Can_the_Circle_Be_Unbroken_(78rpm_Version)_The_Original_Carter_Family.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Will the Circle Be Unbroken (Live at Harrah's Casino, Lake Tahoe, NV - April 1978)",
+      "artist": "Willie Nelson",
+      "has_synced": false,
+      "path": "select/04_Will_the_Circle_Be_Unbroken_(Live_at_Harrah's_Casino,_Lake_Tahoe,_NV_-_April_197_Willie_Nelson.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Southern Gangsta (feat. Rick Ross, Playaz Circle & Ving Rhames)",
+      "artist": "Ludacris",
+      "has_synced": true,
+      "path": "select/05_Southern_Gangsta_(feat._Rick_Ross,_Playaz_Circle_&_Ving_Rhames)_Ludacris.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "8 (circle)",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/06_8_(circle)_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Width Of A Circle - Live",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/07_The_Width_Of_A_Circle_-_Live_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Width Of A Circle",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/08_The_Width_Of_A_Circle_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Width of a Circle",
+      "artist": "David Bowie & The Tony Visconti Trio",
+      "has_synced": false,
+      "path": "select/09_Width_of_a_Circle_David_Bowie_&_The_Tony_Visconti_Trio.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Anti-Circle",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/10_Anti-Circle_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Anti - Circle",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/11_The_Anti_-_Circle_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Circle of Bosses (feat. Quavo)",
+      "artist": "Young Thug",
+      "has_synced": true,
+      "path": "select/12_Circle_of_Bosses_(feat._Quavo)_Young_Thug.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Vicious Circle",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/13_Vicious_Circle_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Circle In The Sand",
+      "artist": "Belinda Carlisle",
+      "has_synced": true,
+      "path": "select/14_Circle_In_The_Sand_Belinda_Carlisle.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Full Circle",
+      "artist": "No Doubt",
+      "has_synced": true,
+      "path": "select/15_Full_Circle_No_Doubt.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Circle",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_Circle_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
